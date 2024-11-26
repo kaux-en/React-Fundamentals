@@ -1,0 +1,14 @@
+.header-text {
+    position: relative;
+}
+
+.img-text {
+    position: absolute;
+    right: 40%;
+    left: 40%;
+    bottom: 10%;
+}
+
+header, div, footer {
+    text-align: center;
+}
